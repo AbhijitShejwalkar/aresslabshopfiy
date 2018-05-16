@@ -28,7 +28,7 @@ layout/gift_card.liquid:
 layout/password.liquid:
   development: 2018-05-11T01:04:40-04:00   2edaee9d09c63ebd65d4dfa35ee3c7b5
 layout/theme.liquid:
-  development: 2018-05-16T03:22:40-04:00   1b7ee8493994d34194a2aab86a088ff5
+  development: 2018-05-16T08:38:31-04:00   28364e36062ed233db4bb510f913a127
 locales/de.json:
   development: 2018-05-11T01:04:40-04:00   fdc209286a35066be3d3def9adffb18a
 locales/en.default.json:
@@ -52,7 +52,9 @@ sections/blog-template.liquid:
 sections/cart-template.liquid:
   development: 2018-05-11T01:04:37-04:00   4f69dd16b97a295881fd57a6cc511fbf
 sections/collection-list.liquid:
-  development: 2018-05-11T01:04:37-04:00   8da2d9a0eab92a9e7959b7fb1c579975
+  development: 2018-05-16T08:40:15-04:00   8da2d9a0eab92a9e7959b7fb1c579975
+sections/collection-list5.liquid:
+  development: 2018-05-16T08:40:23-04:00   8da2d9a0eab92a9e7959b7fb1c579975
 sections/collection-template.liquid:
   development: 2018-05-11T01:04:37-04:00   cae7987ab5b77479601d859b9a9b6e14
 sections/collection.liquid:
