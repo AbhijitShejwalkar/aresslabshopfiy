@@ -28,7 +28,7 @@ layout/gift_card.liquid:
 layout/password.liquid:
   development: 2018-05-11T01:04:40-04:00   2edaee9d09c63ebd65d4dfa35ee3c7b5
 layout/theme.liquid:
-  development: 2018-05-16T01:46:18-04:00   499ccee0bf78b31a3ed4ad3f57430ccd
+  development: 2018-05-16T03:22:40-04:00   1b7ee8493994d34194a2aab86a088ff5
 locales/de.json:
   development: 2018-05-11T01:04:40-04:00   fdc209286a35066be3d3def9adffb18a
 locales/en.default.json:
